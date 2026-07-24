@@ -1198,7 +1198,7 @@ def render_watch_page():
 # =========================================================
 
 with st.sidebar:
-    st.title("🐕 Stray Dog Safety")
+    st.title("🐕 Stray Dog Safety: KU KPS Infirmary 2026")
 
     page = st.radio(
         "เลือกการใช้งาน",
